@@ -1,0 +1,31 @@
+{
+	"manifest_version": 2,
+	"name": "Lizzy's Rice Theme",
+	"version": "1.0",
+	"description": "Firefox theme to match my Arch Linux rice.",
+	"icons": {
+		"48": "icons/border-48.png"
+	},
+  	"theme": {
+		"colors": {
+			"frame": "#22272e",
+			"tab_background_text": "white",
+			"icons": "#a97594",
+			"popup": "#2d333b",
+			"tab_selected": "#2d333b",
+			"tab_line": "#2d333b",
+			"toolbar": "#22272e",
+			"button_background_hover": "#2d333b",
+			"tab_loading": "#a97594",
+			"toolbar_field": "#2d333b",
+			"toolbar_field_text": "white",
+			"toolbar_top_separator": "#2d333b",
+			"toolbar_bottom_separator": "#2d333b",
+			"toolbar_vertical_separator": "#2d333b",
+			"toolbar_field_border": "#22272e",
+			"popup_border": "#2d333b",
+			"icons_attention": "#a97594"
+		}
+	}
+}
+
